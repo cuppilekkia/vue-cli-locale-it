@@ -2,17 +2,21 @@
   "name": "vue-cli-locale-it",
   "version": "0.1.0",
   "description": "IT Locale translation for Vue-CLI UI",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuppilekkia/vue-cli-locale-it.git"
   },
   "keywords": [
     "vue-cli",
     "vue",
-    "ui",
+    "locale",
     "it",
     "italian"
   ],
   "unpkg": "./locales/it.json",
   "author": "Antonio Coppola",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/cuppilekkia/vue-cli-locale-it/issues"
+  },
+  "license": "MIT"
 }

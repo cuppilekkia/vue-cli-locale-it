@@ -1,4 +1,4 @@
-# vue-cli-locale-fr
+# vue-cli-locale-it
 Italian localization for @vue/cli
 
 This will be automatically loaded by vue-cli.
